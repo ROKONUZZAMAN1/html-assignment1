@@ -227,6 +227,52 @@
         
     }
 
+    /* Card related task */
+    .setimage{
+        height: 40px;
+        width: 40px;
+    }
+   .name{
+       font-size: 15px;
+       color: #444446;
+       
+   }
+   .setimage{
+    padding-top: 7px;
+   }
+     .revimage{
+
+        display: flex;
+    }
+    .date{
+        color: #8987A1;
+    }
+
+    .card{
+          font-family: "Open Sans", sans-serif;
+          border: 1px solid black;
+          background-color: #F2EDED;
+          width: 400px;
+          height: 243px;
+          border-radius: 14px;
+        
+    }
+    .card{
+        padding-left: 20px;
+    }
+
+    /* .icon{
+        padding: auto;
+    } */
+    .icon-ul{
+       padding-left: 0%;
+    }
+    .card-flex{
+        display: flex;
+        gap: 50px;
+    }
+
+
 
 
     
