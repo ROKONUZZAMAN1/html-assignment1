@@ -299,7 +299,7 @@
 
      }
      .webflow-user-heading{
-        margin-top: 80px;
+        margin-top: 200px;
         border: #4E47FF 1px solid;
         width: 1340px;
         height: 700px;
@@ -309,5 +309,42 @@
         border-radius: 18px;
         border-style: none;
      }
+    
+
+     .input-section{
+        border: #252432 solid 1px;
+        background-color:white;
+        height: 650px;
+        width: 1140px;
+        margin:auto;
+
+    
+     }
+     /* footer */
+     .foot-flex{
+         font-family: "Open Sans", sans-serif;
+        border: 1px black solid;
+        width: 1440px;
+        height: 430px;
+        text-align: center;
+        border-style: none;
+        
+        margin-top: 50px;
+     }
+
+     .logo2{
+          font-size: 100px;
+          color: #4E47FF;
+          font-weight:800;
+     }
+     .last-text{
+        color: #8987A1;
+        font-size: 40px;
+     }
+
+     
+     
+
+     
 
     
