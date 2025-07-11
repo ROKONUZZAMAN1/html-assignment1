@@ -45,6 +45,7 @@
             height: 698px;  
           
         }
+        
         .logo-modify{
             list-style: none;
             display: flex;
@@ -216,7 +217,16 @@
     }
  
 
-    /* next border */
+    /* next bigin from text */
+    .bigtext{
+        font-family: "Open Sans", sans-serif;
+        font-size: 42px;
+        font-weight: bold;
+        text-align: center;
+        padding-top: 100px;
+        
+    }
+
 
 
     
