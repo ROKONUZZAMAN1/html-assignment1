@@ -311,15 +311,9 @@
      }
     
 
-     .input-section{
-        border: #252432 solid 1px;
-        background-color:white;
-        height: 650px;
-        width: 1140px;
-        margin:auto;
-
+     
     
-     }
+     
      /* footer */
      .foot-flex{
          font-family: "Open Sans", sans-serif;
@@ -341,6 +335,68 @@
         color: #8987A1;
         font-size: 40px;
      }
+
+     /* form part */
+     .input-section{
+        font-family: "Open Sans", sans-serif;
+        border: #252432 solid 1px;
+        background-color:white;
+        height: 650px;
+        width: 1140px;
+        margin:auto;
+        margin-left: 300px;
+     }
+
+     .form{
+        line-height: 0%;
+
+        line
+     }
+     .email{
+        height: 70px;
+        width: 500px;
+     }
+      .name{
+        height: 70px;
+        width: 500px;
+    
+     }
+      .message{
+        
+        height: 110px;
+        width: 500px;
+        
+     }
+     .email1{
+        font-size: 50px;
+     }
+      .name1{
+       font-size: 50px;
+    
+     }
+      .message1{
+        font-size: 50px;
+     }
+     .ipera{
+         font-family: "Open Sans", sans-serif;
+         font-size: 97px;
+         color: #252432;
+         font-weight: 800;
+
+         
+     }
+     .info{
+        display: flex;
+        justify-content: space-between;
+        
+     }
+    .button{
+        background-color: #4E47FF;
+        
+    }
+     
+
+
 
      
      
