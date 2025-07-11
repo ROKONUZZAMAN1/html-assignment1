@@ -81,7 +81,7 @@
             font-size: 40px;
             color: #252432;
             
-        
+        line-height: 0%;
 
         }
         .button{
@@ -145,7 +145,7 @@
         background: white; 
         
         width: 1440px;
-        height: 698px;  
+        height: 200px;  
            
           
       }
@@ -163,24 +163,37 @@
         width: 700px;
  
       }
+
+      /* third part */
+
+
+
+      
     .border{
         border: 1px solid black;
-        width: 856px;
-        height: 206px;
+         width: 1440px;
+        height: 306px;
+        /* width: 856px;
+        height: 206px; */
         text-align: center;
-         padding: 5px 5px;
+       background: none;
+       background-color: #cfcee3;
+       border-radius: 40px
+       
+        
+
+        
     }
     .border1{
         text-align: center;
-      
+        line-height: 0%;
        
     }
     .flex{
         display: flex;
-        gap: 120px;
-        
-       
-       
+        gap: 158px;
+        margin: 0px 40px;
+        padding-left: 300px;
     }
     .user-detail{
         color:#8987A1 ;
@@ -190,9 +203,20 @@
        
     }
     .user{
+        font-family: "Open Sans", sans-serif;
         font-size: 80px;
         color: #4E47FF;
         max-height: 30px;
+
     
     }
+    .user-heading{
+         font-family: "Open Sans", sans-serif;
+         color: #252432;
+    }
  
+
+    /* next border */
+
+
+    
