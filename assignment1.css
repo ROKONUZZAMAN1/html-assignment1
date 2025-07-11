@@ -295,7 +295,19 @@
         border-radius:10px ;
         font-size: 16px;
         border-style: none;
+        margin-bottom: 30px;
 
+     }
+     .webflow-user-heading{
+        margin-top: 80px;
+        border: #4E47FF 1px solid;
+        width: 1340px;
+        height: 700px;
+        background-color: whitesmoke;
+        padding: 50px;
+        text-align: center;
+        border-radius: 18px;
+        border-style: none;
      }
 
     
