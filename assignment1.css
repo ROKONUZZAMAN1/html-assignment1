@@ -407,7 +407,11 @@
         border-radius: 14px;
         border-style: none;
     }
-     
+    ::placeholder{
+        font-size: 30px;
+    }
+    
+
 
 
 
