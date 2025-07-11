@@ -273,6 +273,29 @@
     }
 
 
+    /* big web image item here */
 
+     .webi{
+        height: 365px;
+        width: 840px;
+        border-radius: 48px;
+     }
+     .whead{
+        font-size: 50px;
+     }
+     .webp{
+        color: #868691;
+     }
+
+     .webb{
+        color:white;
+        background-color: #4E47FF;
+        height: 48px;
+        width: 198px;
+        border-radius:10px ;
+        font-size: 16px;
+        border-style: none;
+
+     }
 
     
